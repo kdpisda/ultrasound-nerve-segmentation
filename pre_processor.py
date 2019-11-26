@@ -1,3 +1,11 @@
+"""Pre Processor by @KdPisda
+    Author: Kuldeep Pisda
+    Git: [at]kdpisda
+    Email: kdpisda[at]gmail.com
+Job:
+    It pre process the kaggle dataset given here https://www.kaggle.com/c/ultrasound-nerve-segmentation
+"""
+
 import os
 import shutil
 import getopt, sys
